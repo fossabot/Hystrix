@@ -1,6 +1,8 @@
 <img src="https://netflix.github.com/Hystrix/images/hystrix-logo-tagline-850.png">
 
 # Hystrix: Latency and Fault Tolerance for Distributed Systems
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FHystrix.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FHystrix?ref=badge_shield)
+
 
 Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 
@@ -195,3 +197,6 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FHystrix.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FHystrix?ref=badge_large)
